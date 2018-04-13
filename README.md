@@ -1,1 +1,4 @@
-# master_estadistica
+# Master Estadística Aplicada
+#
+# Curso : Métodos Estadísticos
+#
